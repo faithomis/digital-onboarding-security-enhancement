@@ -25,3 +25,9 @@ Strengthened investor data protection posture
 Improved regulatory and audit readiness
 Reduced identity and configuration-related risk exposure
 Enhanced operational resilience across onboarding workflows
+Governance Artifacts
+Executive Summary → docs/executive-summary.md
+Governance Model → docs/governance-model.md
+NIST Control Alignment → docs/nist-control-alignment.md
+Risk Register → docs/digital-onboarding-risk-register.docx
+Evidence Screenshots → /evidence/
