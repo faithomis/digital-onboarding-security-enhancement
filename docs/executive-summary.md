@@ -1,0 +1,10 @@
+/README.md
+/docs/
+    executive-summary.md
+    governance-model.md
+    nist-control-alignment.md
+    risk-register.docx
+/evidence/
+    iam-mfa-enabled.png
+    cloudtrail-logging.png
+    guardduty-dashboard.png
